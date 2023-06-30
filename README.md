@@ -14,6 +14,23 @@ This is a GUI project made to clone a basic Notepad of our computer.
 
 - tkinter
 - os
+
+
+## Event Bindings 
+
+The most important part to make a better GUI is to learn the event binding process. The most used key bindings in tkinter with their uses are:
+
+|Event Key | Key Binded |
+|----------|------------|
+|Button-1  |Single left click |
+|Button-3  |Single right click |
+|Return    |Enter key |
+|ButtonRelease|Release mouse button |
+|Enter     |Mouse cursor entering in the widget |
+|Double-Button-1  |Double left click |
+|Double-Button-3  |Double right click |
+|Leave |Mouse cursor leaving the widget |
+
   
 ## How to convert .py to.exe
 
